@@ -1,2 +1,1 @@
-# circt.github.io
-web portal
+CIRCT web portal
