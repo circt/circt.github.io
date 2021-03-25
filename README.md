@@ -2,8 +2,8 @@ CIRCT web portal
 
 https://circt.org
 
-Source code: https://github.com/llvm/circt
+Source code: [github.com/llvm/circt](https://github.com/llvm/circt)
 
-Issues plots: https://circt.org/perf/issues
+Issues plots: [circt.org/perf/issues](https://circt.org/perf/issues)
 
-Performance plots: https://circt.org/perf
+Performance plots: [circt.org/perf](https://circt.org/perf)
